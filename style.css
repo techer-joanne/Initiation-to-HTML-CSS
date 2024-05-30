@@ -1,0 +1,54 @@
+h1 {
+    font-size: 36px; /* Augmentation de la taille pour plus de visibilité */
+    text-align: center;
+    color: #de7471;
+    font-family: 'Arial', sans-serif; /* Ajout d'une police plus moderne */
+    margin-top: 20px; /* Ajout d'une marge supérieure pour un meilleur espacement */
+    margin-bottom: 20px; /* Ajout d'une marge inférieure pour un meilleur espacement */
+}
+
+p {
+    font-size: 18px; /* Légère réduction pour une lecture plus confortable */
+    text-align: justify; /* Justification pour un aspect plus professionnel */
+    font-family: 'Verdana', sans-serif; /* Changement de police pour une meilleure lisibilité */
+    line-height: 1.6; /* Augmentation de l'interligne pour une meilleure lisibilité */
+    color: #333; /* Couleur plus douce pour les yeux */
+}
+
+body {
+    background-color: #8379df; /* Couleur de fond plus claire pour un look moderne */
+    font-family: 'Verdana', sans-serif; /* Uniformisation de la police sur tout le corps */
+}
+h2 {
+    font-size: 30px; /* Taille adaptée pour les sous-titres */
+    text-align: left; /* Alignement à gauche pour différencier des titres principaux */
+    color: #6a5acd; /* Couleur vive pour plus d'attrait */
+    font-family: 'Arial', sans-serif; /* Cohérence avec le style du h1 */
+    margin-top: 15px; /* Espacement supérieur */
+    margin-bottom: 15px; /* Espacement inférieur */
+}
+
+/* Ajout de styles pour les autres niveaux de titres pour plus de variété */
+h3 {
+    font-size: 24px;
+    color: #20b2aa; /* Couleur apaisante */
+    font-family: 'Verdana', sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    color: #ff6347; /* Couleur chaude */
+    font-family: 'Verdana', sans-serif;
+}
+
+h5 {
+    font-size: 16px;
+    color: #daa520; /* Couleur dorée */
+    font-family: 'Verdana', sans-serif;
+}
+
+h6 {
+    font-size: 14px;
+    color: #8a2be2; /* Couleur profonde */
+    font-family: 'Verdana', sans-serif;
+}
